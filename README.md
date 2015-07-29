@@ -1,3 +1,5 @@
+Kalbi and Sonqing were part of this course, which occured at UW this summer (2015).  I wasn't in the course, but I've been taking Charlotte's Data Visualization course at OSU, and learning about GGVis.  Kalbi mentioned they discussed GGVis in the course at UW, so I wanted to check it out. (Jeff)
+
 # SISBID Module 2: Visualization of Biomedical Big Data
 
 Instructors: Hadley Wickham and Dianne Cook
